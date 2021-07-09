@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Microservices Architecture and Researching about Distributed Databases Modeling.
 - 👯 I’m looking to collaborate on Researchs on the following topics: Software Engineering, Databases, Model-Driven Development and Distributed Systems.
 - 💬 Ask me about what you want
-- 📫 How to reach me: profgenesislima@gmail.com
+- 📫 How to reach me: profgenesislima@gmail.com  
 [[params.social]]
 icon = "linkedin"
 icon_pack = "fa"
