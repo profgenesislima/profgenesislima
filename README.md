@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Instituto Federal de Pernambuco
+- 🔭 I’m currently working as Professor and Researcher at Instituto Federal de Pernambuco
 - 🌱 I’m currently learning Microservices Architectures and Researching about Distributed Databases Modeling.
-- 👯 I’m looking to collaborate on Researchs on the following topics: Software Engineering, Databases, Model-Driven Development and Distributed Systems.
-- 💬 Ask me about what you want
+- 👯 I’m looking to collaborate in Research and Software Development Projects in the following topics: Software Engineering, Databases, Model-Driven Development and Distributed Systems.
+- 💬 Ask me whether I'm a Software Developer and I'll say Yes! =]
 - 
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-GenesisLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genesislima/)](https://www.linkedin.com/in/genesislima/)
