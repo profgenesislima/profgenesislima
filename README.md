@@ -3,8 +3,7 @@
 - 🔭 I’m currently working as Professor and Researcher at Instituto Federal de Pernambuco
 - 🌱 I’m currently learning Microservices Architectures and Researching about Distributed Databases Modeling.
 - 👯 I’m looking to collaborate in Research and Software Development Projects in the following topics: Software Engineering, Databases, Model-Driven Development and Distributed Systems.
-- 💬 Ask me whether I'm a Software Developer and I'll say Yes! =]
-- 
+- 💬 Ask me whether I'm a Software Developer and I'll say Yes! =]  
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-GenesisLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genesislima/)](https://www.linkedin.com/in/genesislima/)
 [![Gmail Badge](https://img.shields.io/badge/-profgenesislima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profgenesislima@gmail.com)](mailto:lari.santosazevedo@gmail.com)
